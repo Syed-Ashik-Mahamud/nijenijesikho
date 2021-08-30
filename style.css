@@ -1,0 +1,65 @@
+
+body{
+    
+    font-family: 'Poppins', sans-serif;
+   
+}
+.navbar{
+    margin-top: 25px;
+
+}
+
+}
+.navbar-brand{
+    padding-left: 244px;
+    width: 237.31px;
+    height: 96.5px;
+   
+}
+.carousel-indicators [data-bs-target]{
+    background-color: blue;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom,#302f2f 0%, #000000 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    margin-top: 25px;
+}
+
+
+}
+
+.card{
+    border: none;
+    box-shadow: 1px 1px 5px rgb(224, 222, 222);
+    margin: 0px 10px;
+}
+
+.cardcenter{
+    padding: 60px;
+}
+
+.cardcenter h1, p, h5 {
+    text-align: center;
+    margin-bottom: 15px;
+}
+.cardcenter h5{
+    font-weight: bold;
+}
+
+
+.edit{
+    text-align: center;
+}
+.bag-edit{
+    box-shadow: 2px 2px 20px rgb(228, 227, 227);
+    padding: 30px;
+    margin: 20px;
+    border-radius: 15px;
+}
+.fedit{
+    margin-top: 100px;
+
